@@ -1,0 +1,11 @@
+{
+  "name": "hotpi-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@chirimen/amg8833": "latest",
+    "@chirimen-raspi/polyfill": "^1.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
